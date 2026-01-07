@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Harika Reddy 👋
 
-<!--
-**harika9595/harika9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS (Pharm) | GPAT & NIPER Qualified 
+💊 Pharmacoinformatics | Healthcare Data Analytics  
+🐍 Python • Data Science • Bioinformatics  
+📍 Hyderabad, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About Me
+I am a pursuing my postgraduate in pharmacology and toxicology with strong interest in **pharmacoinformatics, healthcare data analysis, and computational drug research**.  
+I work with Python-based tools to analyze biomedical datasets, perform statistical analysis, and derive actionable insights for pharmaceutical and clinical research.
+
+---
+
+## 🧪 Core Domains
+- Pharmacoinformatics  
+- Healthcare & Clinical Data Analysis  
+- Drug Data Mining  
+- Bioinformatics & Computational Biology  
+
+---
+
+## 🛠 Technical Skills
+
+### 🔹 Programming & Analysis
+- Python
+- Pandas, NumPy
+- SciPy, Statsmodels
+- Jupyter Notebook
+
+### 🔹 Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly (basic)
+
+### 🔹 Pharmacoinformatics & Bioinformatics
+- RDKit (basic)
+- Molecular descriptors & QSAR concepts
+- Drug databases (PubChem, DrugBank – conceptual)
+- ADMET data analysis (introductory)
+
+### 🔹 Tools
+- Git & GitHub
+- VS Code
+- Excel (data preprocessing)
+
+---
+
+## 📌 Projects
+
+### 📊 Pandas Data Analysis Project
+🔗 https://github.com/harika9595/pandas-project  
+
+- Data cleaning and preprocessing using Pandas  
+- Exploratory Data Analysis (EDA)  
+- Statistical summaries and visualization  
+- Applicable to pharmaceutical and healthcare datasets  
+
+---
+
+## 🎯 Career Interests
+- Pharmacoinformatics
+- Healthcare Data Analyst
+- Clinical Data Analysis
+- Computational Drug Discovery (entry-level)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/harika-reddy-642012182/
+- GitHub: https://github.com/harika9595
